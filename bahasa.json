@@ -1,0 +1,94 @@
+{
+  "result": [
+  {
+    "no": "1",
+    "name": "Python",
+    "birth_date": "Guido Van Rossum",
+    "Position": "20 Februari 1991",
+    "International": "Linux, Windows, MacOS, dll",
+    "Team": ".py",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png"
+  },
+  {
+    "no": "2",
+    "name": "HTML",
+    "birth_date": "Tim Berners-Lee",
+    "Position": "1993",
+    "International": "Cross-Platform",
+    "Team": ".html",
+    "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsubI1xnS2EsbFC7IKOtHXy3o2yp5zNGHX8-mLk-0nVw&s"
+  },
+  {
+    "no": "3",
+    "name": "CSS",
+    "birth_date": "Håkon Wium Lie dan Bert Bos",
+    "Position": "17 Desember 1996",
+    "International": "Cross-Platform",
+    "Team": ".css",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
+  },
+  {
+    "no": "4",
+    "name": "JavaScript",
+    "birth_date": "Brendan Eich",
+    "Position": "4 Desember 1995",
+    "International": "Cross-Platform",
+    "Team": ".js",
+    "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7uwLyomLuj-z2wdukzRfaViu2o_urpD0h8eOGOdtcLQ&s"
+  },
+  {
+    "no": "5",
+    "name": "C",
+    "birth_date": "Dennis Ritchie",
+    "Position": "1972",
+    "International": "Cross-Platform",
+    "Team": ".c",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"
+  },
+  {
+    "no": "6",
+    "name": "C++",
+    "birth_date": "Bjarne Stroustrup",
+    "Position": "1985",
+    "International": "Cross-Platform",
+    "Team": ".cpp",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"
+  },
+  {
+    "no": "7",
+    "name": "Java",
+    "birth_date": "James Gosling",
+    "Position": "23 Mei 1995",
+    "International": "Cross-Platform",
+    "Team": ".java",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"
+  },
+  {
+    "no": "8",
+    "name": "PHP",
+    "birth_date": "Rasmus Lerdorf",
+    "Position": "8 Juni 1995",
+    "International": "Cross-Platform",
+    "Team": ".php",
+    "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrBf4I0eK4vYS53JCz8x9aiK8WmldKiYHZ7QugpW_rx4LGjJriKAFNssEsNxObQUZZAQo&usqp=CAU"
+  },
+  {
+    "no": "9",
+    "name": "Ruby",
+    "birth_date": "Yukihiro Matsumoto",
+    "Position": "25 Desember 1995",
+    "International": "Cross-Platform",
+    "Team": ".rb",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/640px-Ruby_logo.svg.png"
+  },
+  {
+    "no": "10",
+    "name": "C#",
+    "birth_date": "Anders Hejlsberg",
+    "Position": "2000",
+    "International": "Cross-Platform",
+    "Team": ".cs",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/800px-C_Sharp_Logo_2023.svg.png"
+  }
+ ]
+}
